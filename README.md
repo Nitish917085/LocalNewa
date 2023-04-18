@@ -14,6 +14,14 @@
 
 > Local NEWA is a comprehensive news website that covers a range of local news stories from different regions around the world. The website offers up-to-date news coverage on a wide variety of topics, including politics, crime, education, business, entertainment, sports, and more.
 
+<h2>Images</h2>
+
+![HomePage of Website](https://drive.google.com/uc?export=view&id=1bw4viPK3NCVUb6zoDx7H8rqTTxu_BSnA)
+
+![APIs](https://drive.google.com/uc?export=view&id=1JvYLBscMR29SWS2aomdAStWbmvFvoFzi)
+
+
+
 <h2>Description</h2>
 
 > Local NEWA is a comprehensive news website that covers a range of local news stories from different regions around the world. The website offers up-to-date news coverage on a wide variety of topics, including politics, crime, education, business, entertainment, sports, and more.
